@@ -1,0 +1,5 @@
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\004_ХешТаблица_Деревья\Lesson4\008_BinaryTree_Traversals\bin\Debug\008_BinaryTree_Traversals.exe.config
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\004_ХешТаблица_Деревья\Lesson4\008_BinaryTree_Traversals\bin\Debug\008_BinaryTree_Traversals.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\004_ХешТаблица_Деревья\Lesson4\008_BinaryTree_Traversals\bin\Debug\008_BinaryTree_Traversals.pdb
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\004_ХешТаблица_Деревья\Lesson4\008_BinaryTree_Traversals\obj\Debug\008_BinaryTree_Traversals.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\004_ХешТаблица_Деревья\Lesson4\008_BinaryTree_Traversals\obj\Debug\008_BinaryTree_Traversals.pdb

@@ -1,0 +1,9 @@
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\004_Dynamic_Rabbit\bin\Debug\004_Dynamic_Rabbit.exe.config
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\004_Dynamic_Rabbit\bin\Debug\004_Dynamic_Rabbit.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\004_Dynamic_Rabbit\bin\Debug\004_Dynamic_Rabbit.pdb
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\004_Dynamic_Rabbit\obj\Debug\004_Dynamic_Rabbit.csprojResolveAssemblyReference.cache
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\004_Dynamic_Rabbit\obj\Debug\004_Dynamic_Rabbit.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\004_Dynamic_Rabbit\obj\Debug\004_Dynamic_Rabbit.pdb
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\009_Динамическое_программирование\009_Dynamic\004_Dynamic_Rabbit\bin\Debug\004_Dynamic_Rabbit.exe.config
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\009_Динамическое_программирование\009_Dynamic\004_Dynamic_Rabbit\obj\Debug\004_Dynamic_Rabbit.exe
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\009_Динамическое_программирование\009_Dynamic\004_Dynamic_Rabbit\obj\Debug\004_Dynamic_Rabbit.pdb

@@ -1,0 +1,5 @@
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\005_БинДерево_АВЛДерево\Lesson5\006_AVLTree_Balance\bin\Debug\006_AVLTree_Balance.exe.config
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\005_БинДерево_АВЛДерево\Lesson5\006_AVLTree_Balance\bin\Debug\006_AVLTree_Balance.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\005_БинДерево_АВЛДерево\Lesson5\006_AVLTree_Balance\bin\Debug\006_AVLTree_Balance.pdb
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\005_БинДерево_АВЛДерево\Lesson5\006_AVLTree_Balance\obj\Debug\006_AVLTree_Balance.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\005_БинДерево_АВЛДерево\Lesson5\006_AVLTree_Balance\obj\Debug\006_AVLTree_Balance.pdb

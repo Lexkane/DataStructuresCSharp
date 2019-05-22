@@ -1,0 +1,6 @@
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\008_Графы_Часть_3\008_Graphs_Part_3\008_Graphs_Part_3\bin\Debug\008_Graphs_Part_3.exe.config
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\008_Графы_Часть_3\008_Graphs_Part_3\008_Graphs_Part_3\bin\Debug\008_Graphs_Part_3.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\008_Графы_Часть_3\008_Graphs_Part_3\008_Graphs_Part_3\bin\Debug\008_Graphs_Part_3.pdb
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\008_Графы_Часть_3\008_Graphs_Part_3\008_Graphs_Part_3\obj\Debug\008_Graphs_Part_3.csprojResolveAssemblyReference.cache
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\008_Графы_Часть_3\008_Graphs_Part_3\008_Graphs_Part_3\obj\Debug\008_Graphs_Part_3.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\008_Графы_Часть_3\008_Graphs_Part_3\008_Graphs_Part_3\obj\Debug\008_Graphs_Part_3.pdb

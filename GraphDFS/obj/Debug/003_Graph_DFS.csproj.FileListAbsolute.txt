@@ -1,0 +1,6 @@
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\006_Графы_Часть_1\006_Graphs\003_Graph_DFS\bin\Debug\003_Graph_DFS.exe.config
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\006_Графы_Часть_1\006_Graphs\003_Graph_DFS\bin\Debug\003_Graph_DFS.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\006_Графы_Часть_1\006_Graphs\003_Graph_DFS\bin\Debug\003_Graph_DFS.pdb
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\006_Графы_Часть_1\006_Graphs\003_Graph_DFS\obj\Debug\003_Graph_DFS.csprojResolveAssemblyReference.cache
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\006_Графы_Часть_1\006_Graphs\003_Graph_DFS\obj\Debug\003_Graph_DFS.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\006_Графы_Часть_1\006_Graphs\003_Graph_DFS\obj\Debug\003_Graph_DFS.pdb

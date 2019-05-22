@@ -1,0 +1,5 @@
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\006_Графы_Часть_1\006_Graphs\006_Graphs\bin\Debug\006_Graphs.exe.config
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\006_Графы_Часть_1\006_Graphs\006_Graphs\obj\Debug\006_Graphs.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\006_Графы_Часть_1\006_Graphs\006_Graphs\obj\Debug\006_Graphs.pdb
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\006_Графы_Часть_1\006_Graphs\006_Graphs\bin\Debug\006_Graphs.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\006_Графы_Часть_1\006_Graphs\006_Graphs\bin\Debug\006_Graphs.pdb

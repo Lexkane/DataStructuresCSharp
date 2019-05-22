@@ -1,0 +1,9 @@
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\003_Dynamic_LCS_String\bin\Debug\003_Dynamic_LCS_String.exe.config
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\003_Dynamic_LCS_String\bin\Debug\003_Dynamic_LCS_String.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\003_Dynamic_LCS_String\bin\Debug\003_Dynamic_LCS_String.pdb
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\003_Dynamic_LCS_String\obj\Debug\003_Dynamic_LCS_String.csprojResolveAssemblyReference.cache
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\003_Dynamic_LCS_String\obj\Debug\003_Dynamic_LCS_String.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\003_Dynamic_LCS_String\obj\Debug\003_Dynamic_LCS_String.pdb
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\009_Динамическое_программирование\009_Dynamic\003_Dynamic_LCS_String\bin\Debug\003_Dynamic_LCS_String.exe.config
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\009_Динамическое_программирование\009_Dynamic\003_Dynamic_LCS_String\obj\Debug\003_Dynamic_LCS_String.exe
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\009_Динамическое_программирование\009_Dynamic\003_Dynamic_LCS_String\obj\Debug\003_Dynamic_LCS_String.pdb

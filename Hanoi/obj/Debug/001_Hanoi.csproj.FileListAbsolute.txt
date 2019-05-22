@@ -1,0 +1,6 @@
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\010_Практикум.Задачи\010_Practice_Tasks\010_Practice_Tasks\bin\Debug\010_Practice_Tasks.exe.config
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\010_Практикум.Задачи\010_Practice_Tasks\010_Practice_Tasks\bin\Debug\010_Practice_Tasks.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\010_Практикум.Задачи\010_Practice_Tasks\010_Practice_Tasks\bin\Debug\010_Practice_Tasks.pdb
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\010_Практикум.Задачи\010_Practice_Tasks\010_Practice_Tasks\obj\Debug\001_Hanoi.csprojResolveAssemblyReference.cache
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\010_Практикум.Задачи\010_Practice_Tasks\010_Practice_Tasks\obj\Debug\010_Practice_Tasks.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\010_Практикум.Задачи\010_Practice_Tasks\010_Practice_Tasks\obj\Debug\010_Practice_Tasks.pdb

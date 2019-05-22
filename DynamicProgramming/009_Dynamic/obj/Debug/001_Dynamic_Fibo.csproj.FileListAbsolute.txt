@@ -1,0 +1,9 @@
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\009_Dynamic\bin\Debug\009_Dynamic.exe.config
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\009_Dynamic\bin\Debug\009_Dynamic.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\009_Dynamic\bin\Debug\009_Dynamic.pdb
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\009_Dynamic\obj\Debug\001_Dynamic_Fibo.csprojResolveAssemblyReference.cache
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\009_Dynamic\obj\Debug\009_Dynamic.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\009_Dynamic\obj\Debug\009_Dynamic.pdb
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\009_Динамическое_программирование\009_Dynamic\009_Dynamic\bin\Debug\009_Dynamic.exe.config
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\009_Динамическое_программирование\009_Dynamic\009_Dynamic\obj\Debug\009_Dynamic.exe
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\009_Динамическое_программирование\009_Dynamic\009_Dynamic\obj\Debug\009_Dynamic.pdb

@@ -1,0 +1,3 @@
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\004_ХешТаблица_Деревья\Lesson4\005_HashTable_Get_Clear_LoadFactor\bin\Debug\005_HashTable_Get_Clear_LoadFactor.exe.config
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\004_ХешТаблица_Деревья\Lesson4\005_HashTable_Get_Clear_LoadFactor\obj\Debug\005_HashTable_Get_Clear_LoadFactor.exe
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\004_ХешТаблица_Деревья\Lesson4\005_HashTable_Get_Clear_LoadFactor\obj\Debug\005_HashTable_Get_Clear_LoadFactor.pdb

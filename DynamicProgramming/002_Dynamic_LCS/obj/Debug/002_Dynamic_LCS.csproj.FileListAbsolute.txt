@@ -1,0 +1,2 @@
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\009_Динамическое_программирование\009_Dynamic\002_Dynamic_LCS\bin\Debug\002_Dynamic_LCS.exe.config
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\009_Динамическое_программирование\009_Dynamic\002_Dynamic_LCS\bin\Debug\002_Dynamic_LCS.exe.config

@@ -1,0 +1,5 @@
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\002_Динамический массив. Stack, Queue, Set\Lesson2\007_Queue_Dequeue_Peek\bin\Debug\007_Queue_Dequeue_Peek.exe.config
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\002_Динамический массив. Stack, Queue, Set\Lesson2\007_Queue_Dequeue_Peek\bin\Debug\007_Queue_Dequeue_Peek.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\002_Динамический массив. Stack, Queue, Set\Lesson2\007_Queue_Dequeue_Peek\bin\Debug\007_Queue_Dequeue_Peek.pdb
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\002_Динамический массив. Stack, Queue, Set\Lesson2\007_Queue_Dequeue_Peek\obj\Debug\007_Queue_Dequeue_Peek.exe
+F:\WorkCBS\Courses\new Algo course\Алгоритмы и структуры данных\Исходники\002_Динамический массив. Stack, Queue, Set\Lesson2\007_Queue_Dequeue_Peek\obj\Debug\007_Queue_Dequeue_Peek.pdb

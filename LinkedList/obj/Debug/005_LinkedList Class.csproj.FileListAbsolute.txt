@@ -1,0 +1,3 @@
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\001_Введение в структуры и алгоритмы данных. Связные списки\Lessons1\006_LinkedList Class\bin\Debug\LinkedList Class.exe.config
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\001_Введение в структуры и алгоритмы данных. Связные списки\Lessons1\006_LinkedList Class\obj\Debug\LinkedList Class.exe
+G:\[ITVDN] Algorithms\Algorithms and Data Structures Renewed\algorithms-and-data-structures-renewed-materials\001_Введение в структуры и алгоритмы данных. Связные списки\Lessons1\006_LinkedList Class\obj\Debug\LinkedList Class.pdb
